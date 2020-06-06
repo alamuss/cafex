@@ -1,6 +1,6 @@
 certifi==2019.9.11
 chardet==3.0.4
-Django==2.2.6
+Django==2.2.13
 ibm-cloud-sdk-core==1.0.0
 ibm-watson==4.0.1
 idna==2.8
